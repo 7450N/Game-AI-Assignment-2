@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🤖 Cosplay Bot AI: Behavior Trees & Level Design
+# 🤖 Cosplay Bot AI: Behavior Trees 
 *Game AI Assignment 2*
 
 <!-- BADGES -->
